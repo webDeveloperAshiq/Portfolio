@@ -2828,6 +2828,7 @@ Banner Three
   .banner__area-three-content h1 {
     font-size: 48px;
     line-height: 58px;
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
   }
 }
 @media (max-width: 402px) {
@@ -5870,6 +5871,7 @@ Pagination
     .hero-expert {
         font-size: 28px;
         line-height: 52px;
+        text-shadow: 0 4px 8px rgba(0, 0, 0, 0.8);
     }
 }
 
