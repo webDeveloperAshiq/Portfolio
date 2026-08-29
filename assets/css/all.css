@@ -12979,3 +12979,20 @@ readers do not read off random characters that represent icons */
 .header__area-box-sidebar-popup-menu ul li.active > a {
     color: #1253F8 !important;
 }
+
+@media (max-width: 768px) {
+    html,
+    body {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
+    .container,
+    .wrapper,
+    .main,
+    .section {
+        width: 100%;
+        max-width: 100%;
+    }
+}
